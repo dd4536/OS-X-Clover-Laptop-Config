@@ -203,7 +203,7 @@
 	<key>Graphics</key>
 	<dict>
 		<key>DualLink</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>Inject</key>
 		<dict>
 			<key>ATI</key>
